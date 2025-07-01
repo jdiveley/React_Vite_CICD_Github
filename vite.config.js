@@ -7,7 +7,6 @@ export default defineConfig({
   base: "/React_Vite_CICD_Github/",
   server: {
     open: true,
-    port: 3001,
-    allowedHosts: 'webdev.diveley.net',
+    port: 3001
   },
 });
